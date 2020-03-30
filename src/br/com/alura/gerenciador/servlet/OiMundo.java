@@ -21,7 +21,7 @@ public class OiMundo extends HttpServlet {
 		out.println("</body>");
 		out.println("</html>");
 		
-		System.out.println("o servlet OiMundoServlet foi chamado");
+		System.out.println("o servlet OiMundoServlet foi chamado !!");
 	}
 
 }
